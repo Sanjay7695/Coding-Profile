@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T10:41:39.518Z",
+  "lastUpdated": "2026-07-25T10:41:50.000Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -391,6 +391,328 @@
               "runtime": "0 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Tree/Path Sum/"
+            }
+          }
+        },
+        "minimum-depth-of-binary-tree": {
+          "questionId": "111",
+          "title": "Minimum Depth of Binary Tree",
+          "titleSlug": "minimum-depth-of-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976110000,
+              "runtime": "4 ms",
+              "memory": "82.3 MB",
+              "githubPath": "LeetCode/Tree/Minimum Depth of Binary Tree/"
+            }
+          }
+        },
+        "balanced-binary-tree": {
+          "questionId": "110",
+          "title": "Balanced Binary Tree",
+          "titleSlug": "balanced-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976110000,
+              "runtime": "0 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Tree/Balanced Binary Tree/"
+            }
+          }
+        },
+        "convert-sorted-array-to-binary-search-tree": {
+          "questionId": "108",
+          "title": "Convert Sorted Array to Binary Search Tree",
+          "titleSlug": "convert-sorted-array-to-binary-search-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976110000,
+              "runtime": "0 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Array/Convert Sorted Array to Binary Search Tree/"
+            }
+          }
+        },
+        "divide-two-integers": {
+          "questionId": "29",
+          "title": "Divide Two Integers",
+          "titleSlug": "divide-two-integers",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976110000,
+              "runtime": "1 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Math/Divide Two Integers/"
+            }
+          }
+        },
+        "remove-nth-node-from-end-of-list": {
+          "questionId": "19",
+          "title": "Remove Nth Node From End of List",
+          "titleSlug": "remove-nth-node-from-end-of-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976110000,
+              "runtime": "0 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Linked List/Remove Nth Node From End of List/"
+            }
+          }
+        },
+        "jump-game-ii": {
+          "questionId": "45",
+          "title": "Jump Game II",
+          "titleSlug": "jump-game-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976110000,
+              "runtime": "1 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Jump Game II/"
+            }
+          }
+        },
+        "construct-binary-tree-from-preorder-and-inorder-traversal": {
+          "questionId": "105",
+          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+          "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976110000,
+              "runtime": "5 ms",
+              "memory": "61 MB",
+              "githubPath": "LeetCode/Array/Construct Binary Tree from Preorder and Inorder Traversal/"
+            }
+          }
+        },
+        "transpose-matrix": {
+          "questionId": "867",
+          "title": "Transpose Matrix",
+          "titleSlug": "transpose-matrix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976110000,
+              "runtime": "0 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Array/Transpose Matrix/"
+            }
+          }
+        },
+        "spiral-matrix-ii": {
+          "questionId": "59",
+          "title": "Spiral Matrix II",
+          "titleSlug": "spiral-matrix-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976110000,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Array/Spiral Matrix II/"
+            }
+          }
+        },
+        "rotate-list": {
+          "questionId": "61",
+          "title": "Rotate List",
+          "titleSlug": "rotate-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976110000,
+              "runtime": "0 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Linked List/Rotate List/"
+            }
+          }
+        },
+        "unique-paths": {
+          "questionId": "62",
+          "title": "Unique Paths",
+          "titleSlug": "unique-paths",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Combinatorics"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976110000,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Math/Unique Paths/"
+            }
+          }
+        },
+        "remove-element": {
+          "questionId": "27",
+          "title": "Remove Element",
+          "titleSlug": "remove-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "cpp": {
+              "syncedAt": 1784976110000,
+              "runtime": "0 ms",
+              "memory": "11.8 MB",
+              "githubPath": "LeetCode/Array/Remove Element/"
+            }
+          }
+        },
+        "valid-sudoku": {
+          "questionId": "36",
+          "title": "Valid Sudoku",
+          "titleSlug": "valid-sudoku",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976110000,
+              "runtime": "11 ms",
+              "memory": "52.7 MB",
+              "githubPath": "LeetCode/Array/Valid Sudoku/"
+            }
+          }
+        },
+        "merge-two-sorted-lists": {
+          "questionId": "21",
+          "title": "Merge Two Sorted Lists",
+          "titleSlug": "merge-two-sorted-lists",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976110000,
+              "runtime": "0 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Linked List/Merge Two Sorted Lists/"
+            }
+          }
+        },
+        "valid-parentheses": {
+          "questionId": "20",
+          "title": "Valid Parentheses",
+          "titleSlug": "valid-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976110000,
+              "runtime": "3 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/String/Valid Parentheses/"
+            }
+          }
+        },
+        "letter-combinations-of-a-phone-number": {
+          "questionId": "17",
+          "title": "Letter Combinations of a Phone Number",
+          "titleSlug": "letter-combinations-of-a-phone-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976110000,
+              "runtime": "3 ms",
+              "memory": "49.4 MB",
+              "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
+            }
+          }
+        },
+        "3sum-closest": {
+          "questionId": "16",
+          "title": "3Sum Closest",
+          "titleSlug": "3sum-closest",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976110000,
+              "runtime": "17 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/3Sum Closest/"
             }
           }
         }
