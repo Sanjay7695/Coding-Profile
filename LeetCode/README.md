@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/sanjayp230?theme=tokyonight&show=graph,recent&v=1784976180769" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/sanjayp230?theme=tokyonight&show=graph,recent&v=1784976184270" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -19,7 +19,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 4 | [Median of Two Sorted Arrays](./Array/Median%20of%20Two%20Sorted%20Arrays/) | Hard |
 | 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
+| 15 | [3Sum](./Array/3Sum/) | Medium |
 | 16 | [3Sum Closest](./Array/3Sum%20Closest/) | Medium |
+| 18 | [4Sum](./Array/4Sum/) | Medium |
+| 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 | 36 | [Valid Sudoku](./Array/Valid%20Sudoku/) | Medium |
@@ -28,6 +31,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
 | 48 | [Rotate Image](./Array/Rotate%20Image/) | Medium |
 | 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
+| 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
 | 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
 | 59 | [Spiral Matrix II](./Array/Spiral%20Matrix%20II/) | Medium |
@@ -48,18 +52,26 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
 | 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
 | 120 | [Triangle](./Array/Triangle/) | Medium |
+| 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 130 | [Surrounded Regions](./Array/Surrounded%20Regions/) | Medium |
 | 134 | [Gas Station](./Array/Gas%20Station/) | Medium |
 | 135 | [Candy](./Array/Candy/) | Hard |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
 | 139 | [Word Break](./Array/Word%20Break/) | Medium |
+| 167 | [Two Sum II - Input Array Is Sorted](./Array/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) | Medium |
 | 179 | [Largest Number](./Array/Largest%20Number/) | Medium |
+| 189 | [Rotate Array](./Array/Rotate%20Array/) | Medium |
 | 200 | [Number of Islands](./Array/Number%20of%20Islands/) | Medium |
 | 212 | [Word Search II](./Array/Word%20Search%20II/) | Hard |
+| 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
+| 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
+| 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 322 | [Coin Change](./Array/Coin%20Change/) | Medium |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
+| 384 | [Shuffle an Array](./Array/Shuffle%20an%20Array/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
+| 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 881 | [Boats to Save People](./Array/Boats%20to%20Save%20People/) | Medium |
@@ -125,6 +137,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 142 | [Linked List Cycle II](./Hash%20Table/Linked%20List%20Cycle%20II/) | Medium |
 | 202 | [Happy Number](./Hash%20Table/Happy%20Number/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
+| 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
 
 </details>
 
@@ -135,6 +148,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
 | 19 | [Remove Nth Node From End of List](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List/) | Medium |
 | 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
 | 23 | [Merge k Sorted Lists](./Linked%20List/Merge%20k%20Sorted%20Lists/) | Hard |
@@ -157,6 +171,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
 | 9 | [Palindrome Number](./Math/Palindrome%20Number/) | Easy |
 | 29 | [Divide Two Integers](./Math/Divide%20Two%20Integers/) | Medium |
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
