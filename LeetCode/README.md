@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/sanjayp230?theme=tokyonight&show=graph,recent&v=1784976157331" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/sanjayp230?theme=tokyonight&show=graph,recent&v=1784976172937" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -26,6 +26,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
 | 42 | [Trapping Rain Water](./Array/Trapping%20Rain%20Water/) | Hard |
 | 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
+| 48 | [Rotate Image](./Array/Rotate%20Image/) | Medium |
+| 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
 | 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
 | 59 | [Spiral Matrix II](./Array/Spiral%20Matrix%20II/) | Medium |
@@ -56,10 +58,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 200 | [Number of Islands](./Array/Number%20of%20Islands/) | Medium |
 | 212 | [Word Search II](./Array/Word%20Search%20II/) | Hard |
 | 322 | [Coin Change](./Array/Coin%20Change/) | Medium |
+| 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 881 | [Boats to Save People](./Array/Boats%20to%20Save%20People/) | Medium |
+| 1266 | [Minimum Time Visiting All Points](./Array/Minimum%20Time%20Visiting%20All%20Points/) | Easy |
+| 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
+| 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
+| 1512 | [Number of Good Pairs](./Array/Number%20of%20Good%20Pairs/) | Easy |
+| 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
+| 1822 | [Sign of the Product of an Array](./Array/Sign%20of%20the%20Product%20of%20an%20Array/) | Easy |
+| 1920 | [Build Array from Permutation](./Array/Build%20Array%20from%20Permutation/) | Easy |
+| 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 
 </details>
 
@@ -103,6 +114,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 | 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
 | 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
 | 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
@@ -145,6 +157,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 9 | [Palindrome Number](./Math/Palindrome%20Number/) | Easy |
 | 29 | [Divide Two Integers](./Math/Divide%20Two%20Integers/) | Medium |
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
 | 62 | [Unique Paths](./Math/Unique%20Paths/) | Medium |
@@ -153,8 +166,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
 | 89 | [Gray Code](./Math/Gray%20Code/) | Medium |
 | 96 | [Unique Binary Search Trees](./Math/Unique%20Binary%20Search%20Trees/) | Medium |
+| 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
 | 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
+| 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
+| 1523 | [Count Odd Numbers in an Interval Range](./Math/Count%20Odd%20Numbers%20in%20an%20Interval%20Range/) | Easy |
 
 </details>
 
@@ -191,6 +207,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 97 | [Interleaving String](./String/Interleaving%20String/) | Medium |
 | 131 | [Palindrome Partitioning](./String/Palindrome%20Partitioning/) | Medium |
 | 132 | [Palindrome Partitioning II](./String/Palindrome%20Partitioning%20II/) | Hard |
+| 551 | [Student Attendance Record I](./String/Student%20Attendance%20Record%20I/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 
 </details>
@@ -225,6 +242,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
+| 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
 | 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
 

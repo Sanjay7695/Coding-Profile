@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T10:42:37.329Z",
+  "lastUpdated": "2026-07-25T10:42:52.933Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2099,6 +2099,341 @@
               "runtime": "14 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
+            }
+          }
+        },
+        "group-anagrams": {
+          "questionId": "49",
+          "title": "Group Anagrams",
+          "titleSlug": "group-anagrams",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976172932,
+              "runtime": "7 ms",
+              "memory": "49.4 MB",
+              "githubPath": "LeetCode/Array/Group Anagrams/"
+            }
+          }
+        },
+        "top-k-frequent-elements": {
+          "questionId": "347",
+          "title": "Top K Frequent Elements",
+          "titleSlug": "top-k-frequent-elements",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Bucket Sort",
+            "Counting",
+            "Quickselect"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976172932,
+              "runtime": "14 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/Array/Top K Frequent Elements/"
+            }
+          }
+        },
+        "longest-substring-without-repeating-characters": {
+          "questionId": "3",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976172932,
+              "runtime": "5 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            }
+          }
+        },
+        "rotate-image": {
+          "questionId": "48",
+          "title": "Rotate Image",
+          "titleSlug": "rotate-image",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976172932,
+              "runtime": "0 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Array/Rotate Image/"
+            }
+          }
+        },
+        "valid-palindrome": {
+          "questionId": "125",
+          "title": "Valid Palindrome",
+          "titleSlug": "valid-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976172932,
+              "runtime": "14 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
+            }
+          }
+        },
+        "concatenation-of-array": {
+          "questionId": "1929",
+          "title": "Concatenation of Array",
+          "titleSlug": "concatenation-of-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976172932,
+              "runtime": "1 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/Concatenation of Array/"
+            }
+          }
+        },
+        "richest-customer-wealth": {
+          "questionId": "1672",
+          "title": "Richest Customer Wealth",
+          "titleSlug": "richest-customer-wealth",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976172932,
+              "runtime": "0 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Array/Richest Customer Wealth/"
+            }
+          }
+        },
+        "minimum-time-visiting-all-points": {
+          "questionId": "1266",
+          "title": "Minimum Time Visiting All Points",
+          "titleSlug": "minimum-time-visiting-all-points",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Geometry"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976172932,
+              "runtime": "1 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Array/Minimum Time Visiting All Points/"
+            }
+          }
+        },
+        "shuffle-the-array": {
+          "questionId": "1470",
+          "title": "Shuffle the Array",
+          "titleSlug": "shuffle-the-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976172933,
+              "runtime": "0 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Shuffle the Array/"
+            }
+          }
+        },
+        "number-of-good-pairs": {
+          "questionId": "1512",
+          "title": "Number of Good Pairs",
+          "titleSlug": "number-of-good-pairs",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976172933,
+              "runtime": "1 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Array/Number of Good Pairs/"
+            }
+          }
+        },
+        "build-array-from-permutation": {
+          "questionId": "1920",
+          "title": "Build Array from Permutation",
+          "titleSlug": "build-array-from-permutation",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976172933,
+              "runtime": "1 ms",
+              "memory": "45.7 MB",
+              "githubPath": "LeetCode/Array/Build Array from Permutation/"
+            }
+          }
+        },
+        "running-sum-of-1d-array": {
+          "questionId": "1480",
+          "title": "Running Sum of 1d Array",
+          "titleSlug": "running-sum-of-1d-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976172933,
+              "runtime": "0 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
+            }
+          }
+        },
+        "fizz-buzz": {
+          "questionId": "412",
+          "title": "Fizz Buzz",
+          "titleSlug": "fizz-buzz",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976172933,
+              "runtime": "1 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Math/Fizz Buzz/"
+            }
+          }
+        },
+        "count-odd-numbers-in-an-interval-range": {
+          "questionId": "1523",
+          "title": "Count Odd Numbers in an Interval Range",
+          "titleSlug": "count-odd-numbers-in-an-interval-range",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976172933,
+              "runtime": "0 ms",
+              "memory": "40.4 MB",
+              "githubPath": "LeetCode/Math/Count Odd Numbers in an Interval Range/"
+            }
+          }
+        },
+        "power-of-two": {
+          "questionId": "231",
+          "title": "Power of Two",
+          "titleSlug": "power-of-two",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976172933,
+              "runtime": "1 ms",
+              "memory": "40.7 MB",
+              "githubPath": "LeetCode/Math/Power of Two/"
+            }
+          }
+        },
+        "palindrome-number": {
+          "questionId": "9",
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976172933,
+              "runtime": "5 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Math/Palindrome Number/"
+            }
+          }
+        },
+        "student-attendance-record-i": {
+          "questionId": "551",
+          "title": "Student Attendance Record I",
+          "titleSlug": "student-attendance-record-i",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976172933,
+              "runtime": "0 ms",
+              "memory": "41.5 MB",
+              "githubPath": "LeetCode/String/Student Attendance Record I/"
+            }
+          }
+        },
+        "sign-of-the-product-of-an-array": {
+          "questionId": "1822",
+          "title": "Sign of the Product of an Array",
+          "titleSlug": "sign-of-the-product-of-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976172933,
+              "runtime": "0 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Array/Sign of the Product of an Array/"
             }
           }
         }
