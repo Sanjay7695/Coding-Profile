@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T10:42:02.422Z",
+  "lastUpdated": "2026-07-25T10:42:14.198Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1076,6 +1076,386 @@
               "runtime": "6 ms",
               "memory": "50.1 MB",
               "githubPath": "LeetCode/String/Restore IP Addresses/"
+            }
+          }
+        },
+        "reverse-linked-list-ii": {
+          "questionId": "92",
+          "title": "Reverse Linked List II",
+          "titleSlug": "reverse-linked-list-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Linked List/Reverse Linked List II/"
+            }
+          }
+        },
+        "decode-ways": {
+          "questionId": "91",
+          "title": "Decode Ways",
+          "titleSlug": "decode-ways",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "1 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/String/Decode Ways/"
+            }
+          }
+        },
+        "binary-tree-postorder-traversal": {
+          "questionId": "145",
+          "title": "Binary Tree Postorder Traversal",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "1 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Postorder Traversal/"
+            }
+          }
+        },
+        "binary-tree-preorder-traversal": {
+          "questionId": "144",
+          "title": "Binary Tree Preorder Traversal",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "1 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Preorder Traversal/"
+            }
+          }
+        },
+        "reorder-list": {
+          "questionId": "143",
+          "title": "Reorder List",
+          "titleSlug": "reorder-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "2 ms",
+              "memory": "49.1 MB",
+              "githubPath": "LeetCode/Linked List/Reorder List/"
+            }
+          }
+        },
+        "linked-list-cycle-ii": {
+          "questionId": "142",
+          "title": "Linked List Cycle II",
+          "titleSlug": "linked-list-cycle-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "0 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Hash Table/Linked List Cycle II/"
+            }
+          }
+        },
+        "linked-list-cycle": {
+          "questionId": "141",
+          "title": "Linked List Cycle",
+          "titleSlug": "linked-list-cycle",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "0 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
+            }
+          }
+        },
+        "word-break": {
+          "questionId": "139",
+          "title": "Word Break",
+          "titleSlug": "word-break",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Dynamic Programming",
+            "Trie",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "8 ms",
+              "memory": "45.9 MB",
+              "githubPath": "LeetCode/Array/Word Break/"
+            }
+          }
+        },
+        "copy-list-with-random-pointer": {
+          "questionId": "138",
+          "title": "Copy List with Random Pointer",
+          "titleSlug": "copy-list-with-random-pointer",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "0 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Hash Table/Copy List with Random Pointer/"
+            }
+          }
+        },
+        "single-number-ii": {
+          "questionId": "137",
+          "title": "Single Number II",
+          "titleSlug": "single-number-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "1 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Array/Single Number II/"
+            }
+          }
+        },
+        "single-number": {
+          "questionId": "136",
+          "title": "Single Number",
+          "titleSlug": "single-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "1 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Single Number/"
+            }
+          }
+        },
+        "candy": {
+          "questionId": "135",
+          "title": "Candy",
+          "titleSlug": "candy",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "3 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/Array/Candy/"
+            }
+          }
+        },
+        "gas-station": {
+          "questionId": "134",
+          "title": "Gas Station",
+          "titleSlug": "gas-station",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "2 ms",
+              "memory": "119.2 MB",
+              "githubPath": "LeetCode/Array/Gas Station/"
+            }
+          }
+        },
+        "clone-graph": {
+          "questionId": "133",
+          "title": "Clone Graph",
+          "titleSlug": "clone-graph",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "24 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Hash Table/Clone Graph/"
+            }
+          }
+        },
+        "palindrome-partitioning-ii": {
+          "questionId": "132",
+          "title": "Palindrome Partitioning II",
+          "titleSlug": "palindrome-partitioning-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "12 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/String/Palindrome Partitioning II/"
+            }
+          }
+        },
+        "palindrome-partitioning": {
+          "questionId": "131",
+          "title": "Palindrome Partitioning",
+          "titleSlug": "palindrome-partitioning",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "8 ms",
+              "memory": "65.1 MB",
+              "githubPath": "LeetCode/String/Palindrome Partitioning/"
+            }
+          }
+        },
+        "surrounded-regions": {
+          "questionId": "130",
+          "title": "Surrounded Regions",
+          "titleSlug": "surrounded-regions",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "2 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Surrounded Regions/"
+            }
+          }
+        },
+        "subsets-ii": {
+          "questionId": "90",
+          "title": "Subsets II",
+          "titleSlug": "subsets-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "2 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Array/Subsets II/"
+            }
+          }
+        },
+        "gray-code": {
+          "questionId": "89",
+          "title": "Gray Code",
+          "titleSlug": "gray-code",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "7 ms",
+              "memory": "53.6 MB",
+              "githubPath": "LeetCode/Math/Gray Code/"
+            }
+          }
+        },
+        "merge-sorted-array": {
+          "questionId": "88",
+          "title": "Merge Sorted Array",
+          "titleSlug": "merge-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976134198,
+              "runtime": "0 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Merge Sorted Array/"
             }
           }
         }
