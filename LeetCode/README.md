@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/sanjayp230?theme=tokyonight&show=graph,recent&v=1784976134200" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/sanjayp230?theme=tokyonight&show=graph,recent&v=1784976145448" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -26,7 +26,16 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
 | 59 | [Spiral Matrix II](./Array/Spiral%20Matrix%20II/) | Medium |
 | 66 | [Plus One](./Array/Plus%20One/) | Easy |
+| 68 | [Text Justification](./Array/Text%20Justification/) | Hard |
+| 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
+| 74 | [Search a 2D Matrix](./Array/Search%20a%202D%20Matrix/) | Medium |
+| 75 | [Sort Colors](./Array/Sort%20Colors/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
+| 79 | [Word Search](./Array/Word%20Search/) | Medium |
+| 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
+| 81 | [Search in Rotated Sorted Array II](./Array/Search%20in%20Rotated%20Sorted%20Array%20II/) | Medium |
+| 84 | [Largest Rectangle in Histogram](./Array/Largest%20Rectangle%20in%20Histogram/) | Hard |
+| 85 | [Maximal Rectangle](./Array/Maximal%20Rectangle/) | Hard |
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
 | 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/) | Medium |
@@ -43,6 +52,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 881 | [Boats to Save People](./Array/Boats%20to%20Save%20People/) | Medium |
+
+</details>
+
+
+### Backtracking
+<details>
+<summary>Click to expand Backtracking problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 77 | [Combinations](./Backtracking/Combinations/) | Medium |
 
 </details>
 
@@ -99,6 +119,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 24 | [Swap Nodes in Pairs](./Linked%20List/Swap%20Nodes%20in%20Pairs/) | Medium |
 | 25 | [Reverse Nodes in k-Group](./Linked%20List/Reverse%20Nodes%20in%20k-Group/) | Hard |
 | 61 | [Rotate List](./Linked%20List/Rotate%20List/) | Medium |
+| 82 | [Remove Duplicates from Sorted List II](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List%20II/) | Medium |
+| 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
+| 86 | [Partition List](./Linked%20List/Partition%20List/) | Medium |
 | 92 | [Reverse Linked List II](./Linked%20List/Reverse%20Linked%20List%20II/) | Medium |
 | 143 | [Reorder List](./Linked%20List/Reorder%20List/) | Medium |
 | 148 | [Sort List](./Linked%20List/Sort%20List/) | Medium |
@@ -113,7 +136,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 29 | [Divide Two Integers](./Math/Divide%20Two%20Integers/) | Medium |
+| 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
 | 62 | [Unique Paths](./Math/Unique%20Paths/) | Medium |
+| 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
+| 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
+| 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
 | 89 | [Gray Code](./Math/Gray%20Code/) | Medium |
 | 96 | [Unique Binary Search Trees](./Math/Unique%20Binary%20Search%20Trees/) | Medium |
 | 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
@@ -145,6 +172,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 65 | [Valid Number](./String/Valid%20Number/) | Hard |
 | 91 | [Decode Ways](./String/Decode%20Ways/) | Medium |
 | 93 | [Restore IP Addresses](./String/Restore%20IP%20Addresses/) | Medium |
 | 97 | [Interleaving String](./String/Interleaving%20String/) | Medium |

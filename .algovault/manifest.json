@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T10:42:14.198Z",
+  "lastUpdated": "2026-07-25T10:42:25.447Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1456,6 +1456,341 @@
               "runtime": "0 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Array/Merge Sorted Array/"
+            }
+          }
+        },
+        "partition-list": {
+          "questionId": "86",
+          "title": "Partition List",
+          "titleSlug": "partition-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976145446,
+              "runtime": "0 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Linked List/Partition List/"
+            }
+          }
+        },
+        "maximal-rectangle": {
+          "questionId": "85",
+          "title": "Maximal Rectangle",
+          "titleSlug": "maximal-rectangle",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Stack",
+            "Matrix",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976145446,
+              "runtime": "14 ms",
+              "memory": "50 MB",
+              "githubPath": "LeetCode/Array/Maximal Rectangle/"
+            }
+          }
+        },
+        "largest-rectangle-in-histogram": {
+          "questionId": "84",
+          "title": "Largest Rectangle in Histogram",
+          "titleSlug": "largest-rectangle-in-histogram",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976145446,
+              "runtime": "69 ms",
+              "memory": "78.2 MB",
+              "githubPath": "LeetCode/Array/Largest Rectangle in Histogram/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-list": {
+          "questionId": "83",
+          "title": "Remove Duplicates from Sorted List",
+          "titleSlug": "remove-duplicates-from-sorted-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976145446,
+              "runtime": "0 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Linked List/Remove Duplicates from Sorted List/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-list-ii": {
+          "questionId": "82",
+          "title": "Remove Duplicates from Sorted List II",
+          "titleSlug": "remove-duplicates-from-sorted-list-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976145446,
+              "runtime": "0 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Linked List/Remove Duplicates from Sorted List II/"
+            }
+          }
+        },
+        "search-in-rotated-sorted-array-ii": {
+          "questionId": "81",
+          "title": "Search in Rotated Sorted Array II",
+          "titleSlug": "search-in-rotated-sorted-array-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976145446,
+              "runtime": "0 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Search in Rotated Sorted Array II/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-array-ii": {
+          "questionId": "80",
+          "title": "Remove Duplicates from Sorted Array II",
+          "titleSlug": "remove-duplicates-from-sorted-array-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976145446,
+              "runtime": "0 ms",
+              "memory": "48.8 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array II/"
+            }
+          }
+        },
+        "word-search": {
+          "questionId": "79",
+          "title": "Word Search",
+          "titleSlug": "word-search",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Backtracking",
+            "Depth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976145446,
+              "runtime": "137 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Array/Word Search/"
+            }
+          }
+        },
+        "combinations": {
+          "questionId": "77",
+          "title": "Combinations",
+          "titleSlug": "combinations",
+          "difficulty": "Medium",
+          "tags": [
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976145447,
+              "runtime": "18 ms",
+              "memory": "98 MB",
+              "githubPath": "LeetCode/Backtracking/Combinations/"
+            }
+          }
+        },
+        "sort-colors": {
+          "questionId": "75",
+          "title": "Sort Colors",
+          "titleSlug": "sort-colors",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976145447,
+              "runtime": "0 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Sort Colors/"
+            }
+          }
+        },
+        "search-a-2d-matrix": {
+          "questionId": "74",
+          "title": "Search a 2D Matrix",
+          "titleSlug": "search-a-2d-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976145447,
+              "runtime": "0 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/Array/Search a 2D Matrix/"
+            }
+          }
+        },
+        "set-matrix-zeroes": {
+          "questionId": "73",
+          "title": "Set Matrix Zeroes",
+          "titleSlug": "set-matrix-zeroes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976145447,
+              "runtime": "1 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Set Matrix Zeroes/"
+            }
+          }
+        },
+        "climbing-stairs": {
+          "questionId": "70",
+          "title": "Climbing Stairs",
+          "titleSlug": "climbing-stairs",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976145447,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Math/Climbing Stairs/"
+            }
+          }
+        },
+        "sqrtx": {
+          "questionId": "69",
+          "title": "Sqrt(x)",
+          "titleSlug": "sqrtx",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976145447,
+              "runtime": "1 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Math/Sqrt(x)/"
+            }
+          }
+        },
+        "text-justification": {
+          "questionId": "68",
+          "title": "Text Justification",
+          "titleSlug": "text-justification",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976145447,
+              "runtime": "0 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Text Justification/"
+            }
+          }
+        },
+        "add-binary": {
+          "questionId": "67",
+          "title": "Add Binary",
+          "titleSlug": "add-binary",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Bit Manipulation",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976145447,
+              "runtime": "1 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Math/Add Binary/"
+            }
+          }
+        },
+        "valid-number": {
+          "questionId": "65",
+          "title": "Valid Number",
+          "titleSlug": "valid-number",
+          "difficulty": "Hard",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976145447,
+              "runtime": "1 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/String/Valid Number/"
+            }
+          }
+        },
+        "permutation-sequence": {
+          "questionId": "60",
+          "title": "Permutation Sequence",
+          "titleSlug": "permutation-sequence",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976145447,
+              "runtime": "1 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Math/Permutation Sequence/"
             }
           }
         }
