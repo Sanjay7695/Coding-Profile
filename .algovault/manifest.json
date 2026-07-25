@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T10:41:29.487Z",
+  "lastUpdated": "2026-07-25T10:41:39.518Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -182,6 +182,215 @@
               "runtime": "2481 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/Math/Valid Perfect Square/"
+            }
+          }
+        },
+        "power-of-three": {
+          "questionId": "326",
+          "title": "Power of Three",
+          "titleSlug": "power-of-three",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976099518,
+              "runtime": "8 ms",
+              "memory": "45.9 MB",
+              "githubPath": "LeetCode/Math/Power of Three/"
+            }
+          }
+        },
+        "remove-all-adjacent-duplicates-in-string": {
+          "questionId": "1047",
+          "title": "Remove All Adjacent Duplicates In String",
+          "titleSlug": "remove-all-adjacent-duplicates-in-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976099518,
+              "runtime": "10 ms",
+              "memory": "47.3 MB",
+              "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
+            }
+          }
+        },
+        "happy-number": {
+          "questionId": "202",
+          "title": "Happy Number",
+          "titleSlug": "happy-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976099518,
+              "runtime": "1 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Hash Table/Happy Number/"
+            }
+          }
+        },
+        "valid-anagram": {
+          "questionId": "242",
+          "title": "Valid Anagram",
+          "titleSlug": "valid-anagram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976099518,
+              "runtime": "6 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Hash Table/Valid Anagram/"
+            }
+          }
+        },
+        "subsets": {
+          "questionId": "78",
+          "title": "Subsets",
+          "titleSlug": "subsets",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976099518,
+              "runtime": "1 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Array/Subsets/"
+            }
+          }
+        },
+        "find-all-numbers-disappeared-in-an-array": {
+          "questionId": "448",
+          "title": "Find All Numbers Disappeared in an Array",
+          "titleSlug": "find-all-numbers-disappeared-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976099518,
+              "runtime": "6 ms",
+              "memory": "66.5 MB",
+              "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
+            }
+          }
+        },
+        "largest-number": {
+          "questionId": "179",
+          "title": "Largest Number",
+          "titleSlug": "largest-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976099518,
+              "runtime": "7 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Largest Number/"
+            }
+          }
+        },
+        "sort-list": {
+          "questionId": "148",
+          "title": "Sort List",
+          "titleSlug": "sort-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Divide and Conquer",
+            "Sorting",
+            "Merge Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976099518,
+              "runtime": "9 ms",
+              "memory": "59.1 MB",
+              "githubPath": "LeetCode/Linked List/Sort List/"
+            }
+          }
+        },
+        "find-the-index-of-the-first-occurrence-in-a-string": {
+          "questionId": "28",
+          "title": "Find the Index of the First Occurrence in a String",
+          "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976099518,
+              "runtime": "0 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
+            }
+          }
+        },
+        "pascals-triangle": {
+          "questionId": "118",
+          "title": "Pascal's Triangle",
+          "titleSlug": "pascals-triangle",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976099518,
+              "runtime": "2 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/Array/Pascal's Triangle/"
+            }
+          }
+        },
+        "path-sum": {
+          "questionId": "112",
+          "title": "Path Sum",
+          "titleSlug": "path-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976099518,
+              "runtime": "0 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Tree/Path Sum/"
             }
           }
         }
