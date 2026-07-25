@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T10:42:25.447Z",
+  "lastUpdated": "2026-07-25T10:42:37.329Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1791,6 +1791,314 @@
               "runtime": "1 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Math/Permutation Sequence/"
+            }
+          }
+        },
+        "merge-intervals": {
+          "questionId": "56",
+          "title": "Merge Intervals",
+          "titleSlug": "merge-intervals",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976157329,
+              "runtime": "8 ms",
+              "memory": "49.1 MB",
+              "githubPath": "LeetCode/Array/Merge Intervals/"
+            }
+          }
+        },
+        "jump-game": {
+          "questionId": "55",
+          "title": "Jump Game",
+          "titleSlug": "jump-game",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976157329,
+              "runtime": "3 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Jump Game/"
+            }
+          }
+        },
+        "merge-k-sorted-lists": {
+          "questionId": "23",
+          "title": "Merge k Sorted Lists",
+          "titleSlug": "merge-k-sorted-lists",
+          "difficulty": "Hard",
+          "tags": [
+            "Linked List",
+            "Divide and Conquer",
+            "Heap (Priority Queue)",
+            "Merge Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976157329,
+              "runtime": "4 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Linked List/Merge k Sorted Lists/"
+            }
+          }
+        },
+        "word-search-ii": {
+          "questionId": "212",
+          "title": "Word Search II",
+          "titleSlug": "word-search-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "String",
+            "Backtracking",
+            "Trie",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976157329,
+              "runtime": "129 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Word Search II/"
+            }
+          }
+        },
+        "longest-valid-parentheses": {
+          "questionId": "32",
+          "title": "Longest Valid Parentheses",
+          "titleSlug": "longest-valid-parentheses",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976157329,
+              "runtime": "5 ms",
+              "memory": "46.1 MB",
+              "githubPath": "LeetCode/String/Longest Valid Parentheses/"
+            }
+          }
+        },
+        "triangle": {
+          "questionId": "120",
+          "title": "Triangle",
+          "titleSlug": "triangle",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976157329,
+              "runtime": "4 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Array/Triangle/"
+            }
+          }
+        },
+        "edit-distance": {
+          "questionId": "72",
+          "title": "Edit Distance",
+          "titleSlug": "edit-distance",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976157329,
+              "runtime": "5 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/String/Edit Distance/"
+            }
+          }
+        },
+        "regular-expression-matching": {
+          "questionId": "10",
+          "title": "Regular Expression Matching",
+          "titleSlug": "regular-expression-matching",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976157329,
+              "runtime": "2 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/String/Regular Expression Matching/"
+            }
+          }
+        },
+        "word-ladder-ii": {
+          "questionId": "126",
+          "title": "Word Ladder II",
+          "titleSlug": "word-ladder-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Backtracking",
+            "Breadth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976157329,
+              "runtime": "15 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Hash Table/Word Ladder II/"
+            }
+          }
+        },
+        "trapping-rain-water": {
+          "questionId": "42",
+          "title": "Trapping Rain Water",
+          "titleSlug": "trapping-rain-water",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Dynamic Programming",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976157329,
+              "runtime": "1 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Trapping Rain Water/"
+            }
+          }
+        },
+        "lowest-common-ancestor-of-a-binary-tree": {
+          "questionId": "236",
+          "title": "Lowest Common Ancestor of a Binary Tree",
+          "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976157329,
+              "runtime": "7 ms",
+              "memory": "45.9 MB",
+              "githubPath": "LeetCode/Tree/Lowest Common Ancestor of a Binary Tree/"
+            }
+          }
+        },
+        "coin-change": {
+          "questionId": "322",
+          "title": "Coin Change",
+          "titleSlug": "coin-change",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Breadth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976157329,
+              "runtime": "10 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Array/Coin Change/"
+            }
+          }
+        },
+        "number-of-islands": {
+          "questionId": "200",
+          "title": "Number of Islands",
+          "titleSlug": "number-of-islands",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976157329,
+              "runtime": "3 ms",
+              "memory": "52.1 MB",
+              "githubPath": "LeetCode/Array/Number of Islands/"
+            }
+          }
+        },
+        "combination-sum": {
+          "questionId": "39",
+          "title": "Combination Sum",
+          "titleSlug": "combination-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976157329,
+              "runtime": "2 ms",
+              "memory": "45.7 MB",
+              "githubPath": "LeetCode/Array/Combination Sum/"
+            }
+          }
+        },
+        "binary-tree-level-order-traversal": {
+          "questionId": "102",
+          "title": "Binary Tree Level Order Traversal",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976157329,
+              "runtime": "1 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal/"
+            }
+          }
+        },
+        "longest-palindromic-substring": {
+          "questionId": "5",
+          "title": "Longest Palindromic Substring",
+          "titleSlug": "longest-palindromic-substring",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976157329,
+              "runtime": "14 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
             }
           }
         }

@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/sanjayp230?theme=tokyonight&show=graph,recent&v=1784976145448" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/sanjayp230?theme=tokyonight&show=graph,recent&v=1784976157331" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -23,7 +23,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 | 36 | [Valid Sudoku](./Array/Valid%20Sudoku/) | Medium |
+| 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
+| 42 | [Trapping Rain Water](./Array/Trapping%20Rain%20Water/) | Hard |
 | 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
+| 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
+| 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
 | 59 | [Spiral Matrix II](./Array/Spiral%20Matrix%20II/) | Medium |
 | 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 68 | [Text Justification](./Array/Text%20Justification/) | Hard |
@@ -41,6 +45,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/) | Medium |
 | 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
 | 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
+| 120 | [Triangle](./Array/Triangle/) | Medium |
 | 130 | [Surrounded Regions](./Array/Surrounded%20Regions/) | Medium |
 | 134 | [Gas Station](./Array/Gas%20Station/) | Medium |
 | 135 | [Candy](./Array/Candy/) | Hard |
@@ -48,6 +53,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
 | 139 | [Word Break](./Array/Word%20Break/) | Medium |
 | 179 | [Largest Number](./Array/Largest%20Number/) | Medium |
+| 200 | [Number of Islands](./Array/Number%20of%20Islands/) | Medium |
+| 212 | [Word Search II](./Array/Word%20Search%20II/) | Hard |
+| 322 | [Coin Change](./Array/Coin%20Change/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
@@ -98,6 +106,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
 | 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
 | 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
+| 126 | [Word Ladder II](./Hash%20Table/Word%20Ladder%20II/) | Hard |
 | 133 | [Clone Graph](./Hash%20Table/Clone%20Graph/) | Medium |
 | 138 | [Copy List with Random Pointer](./Hash%20Table/Copy%20List%20with%20Random%20Pointer/) | Medium |
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
@@ -116,6 +125,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 19 | [Remove Nth Node From End of List](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List/) | Medium |
 | 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
+| 23 | [Merge k Sorted Lists](./Linked%20List/Merge%20k%20Sorted%20Lists/) | Hard |
 | 24 | [Swap Nodes in Pairs](./Linked%20List/Swap%20Nodes%20in%20Pairs/) | Medium |
 | 25 | [Reverse Nodes in k-Group](./Linked%20List/Reverse%20Nodes%20in%20k-Group/) | Hard |
 | 61 | [Rotate List](./Linked%20List/Rotate%20List/) | Medium |
@@ -170,9 +180,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
+| 10 | [Regular Expression Matching](./String/Regular%20Expression%20Matching/) | Hard |
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
+| 32 | [Longest Valid Parentheses](./String/Longest%20Valid%20Parentheses/) | Hard |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 65 | [Valid Number](./String/Valid%20Number/) | Hard |
+| 72 | [Edit Distance](./String/Edit%20Distance/) | Medium |
 | 91 | [Decode Ways](./String/Decode%20Ways/) | Medium |
 | 93 | [Restore IP Addresses](./String/Restore%20IP%20Addresses/) | Medium |
 | 97 | [Interleaving String](./String/Interleaving%20String/) | Medium |
@@ -193,11 +206,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 99 | [Recover Binary Search Tree](./Tree/Recover%20Binary%20Search%20Tree/) | Medium |
 | 100 | [Same Tree](./Tree/Same%20Tree/) | Easy |
 | 101 | [Symmetric Tree](./Tree/Symmetric%20Tree/) | Easy |
+| 102 | [Binary Tree Level Order Traversal](./Tree/Binary%20Tree%20Level%20Order%20Traversal/) | Medium |
 | 103 | [Binary Tree Zigzag Level Order Traversal](./Tree/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/) | Medium |
 | 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
 | 110 | [Balanced Binary Tree](./Tree/Balanced%20Binary%20Tree/) | Easy |
 | 111 | [Minimum Depth of Binary Tree](./Tree/Minimum%20Depth%20of%20Binary%20Tree/) | Easy |
 | 112 | [Path Sum](./Tree/Path%20Sum/) | Easy |
+| 236 | [Lowest Common Ancestor of a Binary Tree](./Tree/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/) | Medium |
 
 </details>
 
@@ -208,6 +223,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
 | 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
