@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T10:43:04.760Z",
+  "lastUpdated": "2026-07-25T10:43:12.915Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2440,6 +2440,23 @@
               "runtime": "0 ms",
               "memory": "44 MB",
               "githubPath": "LeetCode/Array/Sign of the Product of an Array/"
+            }
+          }
+        },
+        "unknown-problem": {
+          "questionId": "",
+          "title": "String Compression",
+          "titleSlug": "unknown-problem",
+          "difficulty": "Medium",
+          "tags": [
+            "General"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784976192915,
+              "runtime": "1 ms",
+              "memory": "45.33 MB",
+              "githubPath": "LeetCode/General/String Compression/"
             }
           }
         }
